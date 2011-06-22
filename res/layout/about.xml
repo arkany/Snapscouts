@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="wrap_content" 
+	android:layout_height="fill_parent"
+	android:orientation="vertical"
+	android:background="@drawable/about">
+	<TextView android:id="@+id/AboutText01"
+		android:paddingTop="130px" 
+		android:layout_width="wrap_content"
+		android:paddingLeft="10px"
+		android:paddingRight="10px"
+		android:paddingBottom="0px"
+		android:layout_height="wrap_content"
+		android:textColor="#000000"
+		android:text="Would you like to be part of a super special group of kids that answer to no one, not even parents? Then join the MiniTru Troopers!"
+	></TextView>		
+	<TextView
+		android:layout_width="wrap_content"
+		android:paddingLeft="10px"
+		android:paddingRight="10px"
+		android:paddingBottom="0px"
+		android:layout_height="wrap_content"
+		android:textColor="#000000"
+		android:text="1.  Use your superspy skills to find suspicious activities, right in your neighborhood.  It could be a neighbor, a friend...even your own parents!"
+	></TextView>		
+	<TextView	
+		android:layout_width="wrap_content"
+		android:paddingLeft="10px"
+		android:paddingRight="10px"
+		android:paddingBottom="0px"
+		android:layout_height="wrap_content"
+		android:textColor="#000000"	
+		android:text="2.  When you spot them doing something -- bad, take a picture of them."
+	></TextView>		
+	<TextView	
+		android:layout_width="wrap_content"
+		android:paddingLeft="10px"
+		android:paddingRight="10px"
+		android:paddingBottom="0px"
+		android:layout_height="wrap_content"	
+		android:textColor="#000000"
+		android:text="3.  Send us their name and what they were doing.  That's it!" 
+		
+	></TextView>
+	<TextView android:id="@+id/AboutText02" 
+	android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textColor="#000000"
+		android:text="No one is safe!  Think you got what it takes? If you get in, you can win special badges, like the double plus good 'Prole' badge!  Good luck!
+		-Georgie"
+		android:paddingTop="0px" 
+		android:paddingLeft="230px"></TextView>
+	
+</LinearLayout>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, GeorgieOwell!</string>
+    <string name="app_name">Georgie</string>
+    <string name="crime_prompt">Crime</string>
+    <string-array name="crimes_array">
+        <item>looks suspicious</item>
+		<item>drug/alcohol use</item>
+		<item>downloading music</item>
+		<item>pornography</item>
+		<item>illegal immigrant</item>
+		<item>sexual activity/lewd behavior</item>
+		<item>hates freedom</item>
+		<item>government sympathizer</item>
+		<item>anti-democratic activity </item>
+    </string-array>
+</resources>
+

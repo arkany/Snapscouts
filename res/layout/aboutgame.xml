@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:orientation="vertical"
+  android:padding="10px"
+  android:background="@drawable/about_game">
+	<TextView 
+		android:id="@+id/TextView01" 
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content"
+		android:paddingLeft="10px"
+		android:paddingRight="10px"
+		android:textColor="#000000"
+		android:layout_marginTop="130px"
+		android:text="SnapScout and SnapScout Reports are produced and developed by MiniTru, LLC. Created in 2008 by George Parsons and Winston O’Brien, MiniTru LLC leverages modern technology to address the timeless threats to democracy and freedom. Using a transparent, open source approach — all applications will eventually be released under a GNU license, and all content is copyrighted via Creative Commons — we empower real Americans to connect and share the mini-truths we can't always say out loud, but keep America the greatest country in the world.
+Minitru - Games to Save the Nation.">
+	</TextView>
+</LinearLayout>
